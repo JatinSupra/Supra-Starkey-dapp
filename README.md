@@ -16,7 +16,7 @@ Deploy the Smart Contract on Supra MoveVM Testnet using the guide at: https://do
 - **Spin the Wheel Button**: Provides the game interface where users can spin the wheel.
 - **Wheel Animation:** Displays the spinning wheel animation using the Supra circular logo.
 
-### Role of Starkey Wallet (The Official Wallet of Supra L1)
+### Role of Starkey Wallet 
 The Starkey wallet plays a crucial role in this project by providing the following functionalities:
 
 - **Authentication:** Verifies the user’s identity and ensures authorized access.

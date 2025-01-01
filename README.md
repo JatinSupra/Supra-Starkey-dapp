@@ -48,8 +48,5 @@ bun dev
 - Connecting Starkey Wallet: 
 Open the Application and Click the "Connect Wallet" button following the instructions to connect your Starkey wallet.
 
-- Sign Message Feature
-Once connected to Starkey, Click the "Sign Message" button to sign a predefined message. The result will be displayed as a pop-up, showing the signature, verification status, and address.
-
 ## Contribution
 Feel free to contribute to this project by submitting pull requests or opening issues, all contributions that enhance the functionality or user experience of this project are welcome.

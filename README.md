@@ -9,7 +9,7 @@ The backend of this project is built using the Move and deployed on the Supra Mo
 - `initialize:` Initializes the Result resource with a default value.
 - `spin:` Generates a random result and updates the Result resource.
 
-Deploy the Smart Contract on Supra MoveVM Testnet using the guide at: https://docs.supra.com/move/getting-started
+Deploy the Smart Contract on Supra MoveVM Testnet using the guide at: https://docs.supra.com/move/ 
 
 ### Frontend UI 
 - **Wallet Connection:** Allows users to connect their Starkey wallet.

@@ -46,7 +46,7 @@ bun dev
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 - Connecting Starkey Wallet: 
-Open the Application: Visit http://localhost:3000, Click the "Connect Wallet" button and follow the instructions to connect your Starkey wallet.
+Open the Application and Click the "Connect Wallet" button following the instructions to connect your Starkey wallet.
 
 ## Contribution
 Feel free to contribute to this project by submitting pull requests or opening issues, all contributions that enhance the functionality or user experience of this project are welcome.

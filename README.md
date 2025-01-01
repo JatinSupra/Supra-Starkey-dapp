@@ -1,9 +1,9 @@
-## Overview:
+## Overview 
 Sample dapp build on [Supra](supra.com) MoveVM Testnet with [Starkey Wallet](starkey.app). The dapp is a Spin the Wheel Game with a minimalist UI aiming to provide a guide template for building on Supra MoveVM and Integrate Starkey for Devs trying out first hand with Layer 1. This project showcases how to create a simple game where users can spin a wheel and get random results like "Win," "Lose," or "Try Again."
 
-## Wokring:
+## Wokring 
 
-### Backend: Smart Contract on Supra MoveVM Testnet:
+### Backend: Smart Contract on Supra MoveVM Testnet 
 
 The backend of this project is built using the Move and deployed on the Supra MoveVM. The smart contract includes the `Move.toml` file and module called `SpinTheWheel`, which contains the following functions:
 - `initialize:` Initializes the Result resource with a default value.
@@ -11,7 +11,7 @@ The backend of this project is built using the Move and deployed on the Supra Mo
 
 Deploy the Smart Contract on Supra MoveVM Testnet using the guide at: https://docs.supra.com/move/getting-started
 
-### Frontend UI : 
+### Frontend UI 
 - **Wallet Connection:** Allows users to connect their Starkey wallet.
 - **Spin the Wheel Button**: Provides the game interface where users can spin the wheel.
 - **Wheel Animation:** Displays the spinning wheel animation using the Supra circular logo.

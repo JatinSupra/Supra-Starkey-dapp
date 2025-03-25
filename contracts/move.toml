@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["JatinSupra"]
 
 [addresses]
-deploy_addr = " "
+deploy_addr = "YOUR_ADDRESSS"
 
 [dev-addresses]
 
